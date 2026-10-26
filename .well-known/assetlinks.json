@@ -9,5 +9,16 @@
         "E6:55:E5:69:C0:C1:31:EB:AA:3B:2F:E0:1D:03:53:DF:FD:57:6B:84:6C:EA:9D:11:64:F6:07:0A:84:16:9B:02"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.andresaroca.prestamos",
+      "sha256_cert_fingerprints": [
+        "6E:76:F0:48:21:E1:7F:47:B9:7F:8C:0B:97:C2:80:AC:4D:FA:63:37:D8:5F:65:FA:0E:72:D4:76:36:15:D2:F5",
+        "02:B2:9A:CE:42:3F:39:85:77:D6:41:74:AB:E4:9B:29:D0:97:4D:C3:D9:4B:6A:EF:83:9F:51:D2:0E:09:30:48"
+      ]
+    }
   }
 ]
